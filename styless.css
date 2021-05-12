@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+    padding-top: 60px;
+}
+.container {
+    background-color: white;
+    width: 530px;
+    margin: auto;
+}
+.top {
+    display: flex;
+    margin: auto;
+    padding: 15px 0;
+}
+.logo {
+    margin: auto 0;
+    padding: 0 10px;
+}
+.left {
+    float: left;
+}
+
+.left p {
+    padding: 5px;
+    margin: 0;
+}
+.right {
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: 3%;
+    padding: 2 5px;
+
+}
+.content img {
+    width: 530px;
+    object-fit: contain;
+}
+.footer {
+    padding: 10px;
+}
+.icon {
+    display: flex;
+    margin: auto;
+    padding: 15px 0;
+}
+.left-icon {
+    float: left;
+    justify-content: space-between;
+}
+.right-icon {
+    margin-left: 470px;
+    margin-top: 8px;
+    padding: 2 5px;
+}
+.icon-set{
+    padding: 0 3px;
+}
